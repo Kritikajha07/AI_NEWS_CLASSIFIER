@@ -62,8 +62,3 @@ streamlit run app.py
 Live Application Link
 
 https://ainewsclassifier-swnfhp8mna6i6wzq3ezayc.streamlit.app/
-
-
-Live Application
-
-PASTE YOUR STREAMLIT LINK HERE
